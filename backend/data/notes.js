@@ -1,3 +1,4 @@
+
 const notes = [
     {
       _id: "1",
@@ -27,6 +28,7 @@ const notes = [
     },
   ];
   
-  module.exports = notes;
+ module.exports = notes;
+  // export default notes 
  
   
